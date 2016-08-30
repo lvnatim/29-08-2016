@@ -1,0 +1,15 @@
+{
+  "name": "betting-game",
+  "version": "1.0.0",
+  "description": "A betting game.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Lu",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt-sync": "^4.1.4"
+  }
+}
